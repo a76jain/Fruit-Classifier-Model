@@ -1,4 +1,4 @@
-# Fruit Classifier Model
+# Fruit Classifier(Smart Farming)
 
 ### Description
 
