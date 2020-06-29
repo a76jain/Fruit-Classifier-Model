@@ -1,4 +1,4 @@
-# Fruit-Classifier-Model
+# Fruit Classifier Model
 
 ### Description
 
